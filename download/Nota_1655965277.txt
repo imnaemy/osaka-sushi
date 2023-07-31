@@ -1,0 +1,23 @@
+@l!x0
+Toko      : Osaka Sushi                 
+Alamat    : Jl. Cipedes I No.15, Cipedes
+No. Telp  : 0817-4988-4500              
+
+No. Order : 14
+Tanggal   : 23-06-2022
+Kasir     : kasir
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+AIR MINERAL          5,000   1     5,000
+GODZILLA            21,600   1    21,600
+DRAGONBALL          24,000   1    24,000
+GYUUNIKU            24,000   1    24,000
+
+                   Sub Total :    74,600
+                      Diskon :    10,000
+                       TOTAL :    64,600
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

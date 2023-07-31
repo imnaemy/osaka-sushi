@@ -1,0 +1,23 @@
+@l!x0
+Toko      : Osaka Sushi                 
+Alamat    : Jl. Cipedes I No.15, Cipedes
+No. Telp  : 0817-4988-4500              
+
+No. Order : 16
+Tanggal   : 23-06-2022
+Kasir     : kasir
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+AIR MINERAL          5,000   1     5,000
+SUPER SALMON        54,000   1    54,000
+ICE LEMON TEA       12,500   1    12,500
+MINI HEPI           42,000   1    42,000
+
+                   Sub Total :   113,500
+                      Diskon :     8,800
+                       TOTAL :   104,700
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

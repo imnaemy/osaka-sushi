@@ -1,0 +1,21 @@
+@l!x0
+Toko      : Osaka Sushi                 
+Alamat    : Jl. Cipedes I No.15, Cipedes
+No. Telp  : 0817-4988-4500              
+
+No. Order : 18
+Tanggal   : 23-06-2022
+Kasir     : kasir
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+SUSHI PARTY        120,000   1   120,000
+ICE LEMON TEA       12,500   9   112,500
+
+                   Sub Total :   232,500
+                      Diskon :         0
+                       TOTAL :   232,500
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+
